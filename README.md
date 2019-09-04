@@ -4,6 +4,9 @@
 - 역할 : 
 - 성과 : 교내 Art&Technology Contest 최우수상
 
+## My Role
+![test](./test.gif)
+
 ## Demo
 
 ![Demo](./Demo.gif)
