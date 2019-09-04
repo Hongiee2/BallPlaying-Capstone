@@ -1,7 +1,7 @@
 ## Ballplaying - Interactive Game
 - 2018-2 "캡스톤디자인"
 - 개발기간 : 18년 9월 ~ 18년 12월 
-- 역할 : Blob Detection(Depth 카메라를 이용해 특정 거리 범주에 있는 객체들만 물체 인식), Blob Tracking(공의 좌표 추출) 구현
+- 역할 : Blob Detection, Blob Tracking 구현. Depth 카메라를 이용해 특정 거리 범주에 있는 물체만 인식하고 물체의 좌표를 추출
 - 성과 : 교내 Art&Technology Contest 최우수상
 
 ## My Role
