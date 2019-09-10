@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8dfb00b5e7d3db749bb2d99ec5a93cc1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ParticleFXExplosion: {fileID: 100018, guid: a40b64bf23366dc42a892af2c6ff6140,
+      type: 2}
+  - scoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
